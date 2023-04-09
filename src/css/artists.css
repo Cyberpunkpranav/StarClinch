@@ -1,0 +1,4 @@
+.artistcontainer .cards:hover{
+    border-color: var(--lightred) !important;
+    background-color: var(--lightred) !important;
+}
